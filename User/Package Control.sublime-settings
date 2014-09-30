@@ -8,6 +8,8 @@
 		"MarkdownEditing",
 		"Protocol Buffer Syntax",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-erlc",
 		"TrailingSpaces",
 		"Trimmer"
 	]
