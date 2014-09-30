@@ -1,10 +1,12 @@
 {
 	"installed_packages":
 	[
+		"BufferScroll",
 		"Colorsublime",
 		"Git",
 		"GitGutter",
 		"MarkdownEditing",
+		"Protocol Buffer Syntax",
 		"SideBarEnhancements",
 		"TrailingSpaces",
 		"Trimmer"
