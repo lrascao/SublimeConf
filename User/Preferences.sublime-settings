@@ -11,5 +11,6 @@
 		"Markdown"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1
+	"line_padding_top": 1,
+	"ensure_newline_at_eof_on_save" : 1
 }
